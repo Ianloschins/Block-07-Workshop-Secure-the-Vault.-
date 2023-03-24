@@ -1,0 +1,19 @@
+
+img {
+    display: block;
+    margin: 0 auto;
+    gap: 100px;
+    border: solid;
+}
+.button1 {
+    border: solid;
+    gap: 100px;
+    margin: 100px;
+    display: block;
+    margin: 50px auto;
+    border-radius: 50px;
+    
+}
+body {
+    background-color: goldenrod;
+}
